@@ -66,7 +66,7 @@ footer{
 
 nav a:hover { text-decoration: underline; color:#0056b3 }
 
-#ice a.hover {text-decoration: underline }
+#ice a:hover {text-decoration: underline }
 
 .questions {padding:0 20px 0 20px; }
 
